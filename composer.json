@@ -9,5 +9,8 @@
             "email": "ayimdomnic@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "laravel/laravel": "^5.7"
+    }
+    
 }
