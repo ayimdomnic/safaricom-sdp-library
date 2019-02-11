@@ -1,0 +1,13 @@
+{
+    "name": "ayimdomnic/laravel-sdp",
+    "description": "This is a PHP Laravel Library to allow connection to the Safaricom's sdp platform",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Odhiambo Dormnic",
+            "email": "ayimdomnic@outlook.com"
+        }
+    ],
+    "require": {}
+}
